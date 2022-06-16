@@ -31,4 +31,8 @@ Once authenticated, the users will be directed to the profile page, in which the
 ![image](https://user-images.githubusercontent.com/71811359/174062866-1f6d9780-5934-4dc0-b6b4-2225cfbbecb2.png)
 
 
+## API Configuration
+
+APIs were configured in **config.php** and **config-hybridauth.php**
+
 
